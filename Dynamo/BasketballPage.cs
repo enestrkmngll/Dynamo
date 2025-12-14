@@ -14,6 +14,7 @@ namespace _0_proje
     public partial class BasketballPage : Form
     {
         public string yazi12;
+        //BasketballPage
         public BasketballPage()
         {
             InitializeComponent();
